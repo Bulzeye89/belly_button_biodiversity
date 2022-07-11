@@ -1,0 +1,14 @@
+body {
+
+    color: #b435da;
+    background-color: rgb(181, 178, 174);
+
+    
+}
+
+.jumbotron {
+    color: #ebf3f5;
+    background-image: url("../images/purple.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
